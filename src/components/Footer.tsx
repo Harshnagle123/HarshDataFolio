@@ -34,7 +34,7 @@ const Footer = () => {
 
           {/* Quick Links */}
           <div className="space-y-4">
-            <h4 className="text-xl font-semibold text-foreground">Quick Links</h4>
+            <h4 className="text-lg font-semibold text-foreground">Quick Links</h4>
             <div className="space-y-2">
               {[
                 { href: '#about', label: 'About' },
@@ -56,7 +56,7 @@ const Footer = () => {
 
           {/* Connect */}
           <div className="space-y-4">
-            <h4 className="text-xl font-semibold text-foreground">Let's Connect</h4>
+            <h4 className="text-lg font-semibold text-foreground">Let's Connect</h4>
             <div className="flex space-x-4">
               <a
                 href="https://github.com/Harshnagle123"

@@ -46,7 +46,7 @@ const Projects = () => {
             Featured <span className="text-gradient">Projects</span>
           </h2>
           <div className="w-20 h-1 bg-gradient-to-r from-primary to-accent rounded-full mx-auto mb-6"></div>
-          <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
+          <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             Here are some of my recent projects that showcase my skills in data science, 
             machine learning, and software development.
           </p>
@@ -83,7 +83,7 @@ const Projects = () => {
               {/* Content */}
               <div className="p-6 space-y-4">
                 <div>
-                  <h3 className="text-xl font-bold mb-2 text-foreground">
+                  <h3 className="text-lg font-bold mb-2 text-foreground">
                     {project.title}
                   </h3>
                   <p className="text-muted-foreground leading-relaxed text-sm">

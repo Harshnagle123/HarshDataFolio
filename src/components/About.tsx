@@ -28,14 +28,14 @@ const About = () => {
               <div className="w-20 h-1 bg-gradient-to-r from-primary to-accent rounded-full mb-6"></div>
             </div>
 
-            <p className="text-xl text-muted-foreground leading-relaxed">
+            <p className="text-lg text-muted-foreground leading-relaxed">
               I'm a passionate data analyst with expertise in Python, Data Science, Machine Learning, 
               SQL, MS Excel, Tableau, Power BI, and advanced data visualization techniques. My journey 
               has been shaped by hands-on projects and real-world simulations where I've developed 
               sophisticated predictive models and analyzed complex datasets to drive strategic insights.
             </p>
 
-            <p className="text-xl text-muted-foreground leading-relaxed">
+            <p className="text-lg text-muted-foreground leading-relaxed">
               With a commitment to continuous learning and innovation, I'm always exploring new 
               technologies and methodologies in the rapidly evolving field of data science. 
               I'm actively seeking opportunities to leverage my analytical skills in dynamic, 

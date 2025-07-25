@@ -46,7 +46,7 @@ const Skills = () => {
             My <span className="text-gradient">Skills</span>
           </h2>
           <div className="w-20 h-1 bg-gradient-to-r from-primary to-accent rounded-full mx-auto mb-6"></div>
-          <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
+          <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             I have strong expertise in data science, machine learning, and programming. 
             Here's a breakdown of my technical proficiencies.
           </p>
@@ -58,7 +58,7 @@ const Skills = () => {
             <h3 className="text-2xl font-bold text-foreground mb-4">
               Expertise in Data Science & Analytics
             </h3>
-            <p className="text-xl text-muted-foreground leading-relaxed">
+            <p className="text-lg text-muted-foreground leading-relaxed">
               I continuously seek experiences to develop high-quality projects that contribute 
               to my learning and enhance my understanding of data science and analytics. My 
               passion drives me to explore cutting-edge technologies and methodologies.

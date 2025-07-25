@@ -34,11 +34,11 @@ const Hero = () => {
             Harsh Nagle
           </h1>
           
-          <p className="text-xl md:text-2xl text-muted-foreground mb-8 font-medium">
+          <p className="text-lg md:text-2xl text-muted-foreground mb-8 font-medium">
             Artificial Intelligence & Data Science
           </p>
           
-          <p className="text-xl text-muted-foreground/80 mb-12 max-w-2xl mx-auto leading-relaxed">
+          <p className="text-lg text-muted-foreground/80 mb-12 max-w-2xl mx-auto leading-relaxed">
             Transforming data into insights through machine learning, statistical analysis, 
             and innovative AI solutions. Building the future with intelligent algorithms.
           </p>

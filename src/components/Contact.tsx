@@ -31,7 +31,7 @@ const Contact = () => {
             Get In <span className="text-gradient">Touch</span>
           </h2>
           <div className="w-20 h-1 bg-gradient-to-r from-primary to-accent rounded-full mx-auto mb-6"></div>
-          <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
+          <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             Ready to collaborate on your next data science project? Let's discuss how we can 
             turn your data into actionable insights.
           </p>

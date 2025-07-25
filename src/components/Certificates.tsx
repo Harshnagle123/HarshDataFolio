@@ -50,7 +50,7 @@ const Certificates = () => {
             Certificates & <span className="text-gradient">Achievements</span>
           </h2>
           <div className="w-20 h-1 bg-gradient-to-r from-primary to-accent rounded-full mx-auto mb-6"></div>
-          <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
+          <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             Continuous learning is key to staying ahead in the rapidly evolving field of data science. 
             Here are my recent certifications and achievements.
           </p>
@@ -81,7 +81,7 @@ const Certificates = () => {
 
               {/* Content */}
               <div className="flex-grow space-y-3">
-                <h3 className="text-xl font-bold text-foreground">
+                <h3 className="text-lg font-bold text-foreground">
                   {cert.title}
                 </h3>
                 
